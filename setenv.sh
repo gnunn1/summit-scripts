@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+export OPENSHIFT_PROJECT_NAME=demo
+export OPENSHIFT_REGISTRY=172.30.20.169:5000
