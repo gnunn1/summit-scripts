@@ -1,3 +1,5 @@
+_This repo is deprecated, please use [summit-game-ansible](https://github.com/gnunn1/summit-game-ansible) instead._
+
 # Introduction
 
 This is a guide to get the Red Hat 2016 Summit game up and running within a CDK environment. It is highly recommended that you view the demo of the game that was done at the 2016 Red Hat Summit [here](https://www.youtube.com/watch?v=ooA6FmTL4Dk) to understand what the game is about. As a summary, the game is a balloon popping game where the attendees can participate by playing the game while the demo is running. The game is a great demo for OpenShift and DevOps and makes use of a number of other Red Hat products including BRMS and EAP.
